@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://hyu-ms.github.io/tag/algorithm/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://hyu-ms.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-12-30T16:18:09+00:00</updated>
+  <id>https://hyu-ms.github.io/tag/algorithm/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Moony Vibes | </title>
+  
+
+  
+    <subtitle>IT&amp;Finance</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">알고리즘 (2) - 그리디</title>
+      <link href="https://hyu-ms.github.io/algo-bruteforce" rel="alternate" type="text/html" title="알고리즘 (2) - 그리디" />
+      <published>2022-12-24T00:23:00+00:00</published>
+      <updated>2022-12-24T00:23:00+00:00</updated>
+      <id>https://hyu-ms.github.io/algo-bruteforce</id>
+      <content type="html" xml:base="https://hyu-ms.github.io/algo-bruteforce">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./algo-greedy&quot;&gt;알고리즘 (1) - 브루트 포스&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./algo-brueforce&quot;&gt;알고리즘 (2) - 그리디&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;알고 
+성공!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Seok Moon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="algorithm" />
+      
+
+      
+        <summary type="html">알고리즘 (1) - 브루트 포스 알고리즘 (2) - 그리디</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">알고리즘 (1) - 브루트 포스</title>
+      <link href="https://hyu-ms.github.io/algo-greedy" rel="alternate" type="text/html" title="알고리즘 (1) - 브루트 포스" />
+      <published>2022-12-23T00:23:00+00:00</published>
+      <updated>2022-12-23T00:23:00+00:00</updated>
+      <id>https://hyu-ms.github.io/algo-greedy</id>
+      <content type="html" xml:base="https://hyu-ms.github.io/algo-greedy">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./algo-greedy&quot;&gt;알고리즘 (1) - 브루트 포스&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./algo-brueforce&quot;&gt;알고리즘 (2) - 그리디&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;알고 성공! 
+ㄴㅇㄹ&lt;/p&gt;
+
+&lt;p&gt;가영ㅇ
+sdf\n
+ASFDSKDJFLDFJ
+SDKLFNndfksdfn&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Seok Moon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="algorithm" />
+      
+
+      
+        <summary type="html">알고리즘 (1) - 브루트 포스 알고리즘 (2) - 그리디 알고 성공! ㄴㅇㄹ</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
