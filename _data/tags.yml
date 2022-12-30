@@ -1,0 +1,12 @@
+algo :
+  name: algorithm
+  description: False
+  cover: assets/built/images/moony_transform.jpg
+finance :
+  name: finance
+  description: False
+  cover: assets/built/images/chart_background.jpg
+life :
+  name: life
+  description: False
+  cover: assets/built/images/starring.png
