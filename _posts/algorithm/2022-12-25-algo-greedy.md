@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: False
 navigation: True
-title: 알고리즘 (1) - 그리디
+title: 알고리즘 (1) - 브루트 포스
 date: 2022-12-23 00:23:00
 tags: [algorithm]
 class: post-template
