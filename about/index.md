@@ -8,6 +8,10 @@ class: page-template
 subclass: 'post page'
 ---
 
-Demo입니다
+Welcome to Moony Vibes!
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+Hello, I am a inquisitive Developer, looking for an incessant growing up. My current areas of interest are Data Anaylsis, Vision AI, Reinforcement Learning, and Quantative Trading.
+
+My name is Moon Seok, born in 1996. I majored in automotive engineering from Hanyang University, in 2022. 08. I am currently studying data structures and computer algorithms.
+
+Thank you for visiting my blog and hope you get some inspirations!
