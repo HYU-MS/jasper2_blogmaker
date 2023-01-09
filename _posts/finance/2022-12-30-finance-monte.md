@@ -135,11 +135,9 @@ simulated_payoffs
 
 
 
-
-    array([0.       , 0.       , 0.       , ..., 6.6015229, 0.       ,
-           0.       ])
-
-
+~~~python
+array([0., 0., 0., ..., 6.6015229, 0., 0.])
+~~~
 
 The expected payoff of the call option, $$E[\tilde{C}_t]$$, is,
 
